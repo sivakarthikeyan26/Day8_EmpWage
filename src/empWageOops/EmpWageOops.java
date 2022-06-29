@@ -6,6 +6,7 @@ public class EmpWageOops {
 		Emp_compute emp = new Emp_compute();
 		emp.present_absent();
 		emp.daily_wage();
+		emp.monthly_wage();
 
 	}
 
